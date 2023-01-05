@@ -11,7 +11,7 @@
 
 - [3. Elasticsearch 简介及其发展历史](part-1/1.3-Elasticsearch简介及其发展历史/README.md)
 
-- [4. Elastic Stack 家族成员及其应用场景](part-1/1.4-Elastic Stack 家族成员及其应用场景/README.md)
+- [4. Elastic Stack 家族成员及其应用场景](part-1/1.4-Elastic%20Stack%20家族成员及其应用场景/README.md)
 
 ### 第 2 章：安装上手
 - [1. Elasticsearch 的安装与简单配置](part-1/2.1-Elasticsearch的安装与简单配置/README.md)
