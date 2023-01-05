@@ -3,10 +3,13 @@
 - 极客时间：《Elasticsearch核心技术与实战》视频课程购买地址 - https://time.geekbang.org/course/intro/197
 ## 第一部分：初识 Elasticsearch
 ### 第 1 章：概述
-1. 课程介绍
-2. 课程综述及学习建议
-3. Elasticsearch 简介及其发展历史
-4. Elastic Stack 家族成员及其应用场景
+- [1. 课程介绍](part-1/1.1-课程介绍/README.md)
+
+- [2. 课程综述及学习建议](part-1/1.2-课程综述及学习建议/README.md)
+
+1. Elasticsearch 简介及其发展历史
+2. Elastic Stack 家族成员及其应用场景
+
 ### 第 2 章：安装上手
 1. Elasticsearch 的安装与简单配置
 2. Kibana 的安装与界面快速浏览
