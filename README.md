@@ -1,14 +1,17 @@
 # 《Elasticsearch 核心技术与实战》
-- Github 地址 https://github.com/onebirdrocks/geektime-ELK/
-- 极客时间：《Elasticsearch核心技术与实战》视频课程购买地址 - https://time.geekbang.org/course/intro/197
+- Github 地址 https://github.com/liushiju/ELK_Training.git
 ## 第一部分：初识 Elasticsearch
 ### 第 1 章：概述
+
+[初识 Elasticsearch_PPT](part-1/初识Elasticsearch.pdf)
+
 - [1. 课程介绍](part-1/1.1-课程介绍/README.md)
 
 - [2. 课程综述及学习建议](part-1/1.2-课程综述及学习建议/README.md)
 
-1. Elasticsearch 简介及其发展历史
-2. Elastic Stack 家族成员及其应用场景
+- [3. Elasticsearch 简介及其发展历史](part-1/1.3-Elasticsearch简介及其发展历史/README.md)
+
+- [4. Elastic Stack 家族成员及其应用场景]()
 
 ### 第 2 章：安装上手
 1. Elasticsearch 的安装与简单配置
