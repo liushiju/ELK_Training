@@ -1,9 +1,10 @@
 # 《Elasticsearch 核心技术与实战》
 - Github 地址 https://github.com/liushiju/ELK_Training.git
 ## 第一部分：初识 Elasticsearch
-### 第 1 章：概述
 
 [初识 Elasticsearch_PPT](part-1/初识Elasticsearch.pdf)
+
+### 第 1 章：概述
 
 - [1. 课程介绍](part-1/1.1-课程介绍/README.md)
 
