@@ -11,13 +11,15 @@
 
 - [3. Elasticsearch 简介及其发展历史](part-1/1.3-Elasticsearch简介及其发展历史/README.md)
 
-- [4. Elastic Stack 家族成员及其应用场景]()
+- [4. Elastic Stack 家族成员及其应用场景](part-1/1.4-Elastic Stack 家族成员及其应用场景/README.md)
 
 ### 第 2 章：安装上手
-1. Elasticsearch 的安装与简单配置
-2. Kibana 的安装与界面快速浏览
-3. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro
-4. Logstash 安装与导入数据
+- [1. Elasticsearch 的安装与简单配置](part-1/2.1-Elasticsearch的安装与简单配置/README.md)
+
+1. Kibana 的安装与界面快速浏览
+2. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro
+3. Logstash 安装与导入数据
+
 ### 第 3 章：Elasticsearch 入门
 1. 基本概念（1）：索引，文档和 REST API
 2. 基本概念（2）：节点，集群，分片及副本
