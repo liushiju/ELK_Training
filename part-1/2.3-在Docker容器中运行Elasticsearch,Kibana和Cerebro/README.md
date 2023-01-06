@@ -1,7 +1,35 @@
 # 在Docker容器中运行Elasticsearch, Kibana和Cerebro
-## 课程Demo
+
+## 一、Elastic Stack 与 Docker 容器
+
+- Elastic 官方提供 docker image
+- 如需安装定制的插件，可以写 dockerfile，将官方 image 设为 base image
+- 2018 年 12 月加入 CNCF，提供helm
+  - http://github.com/helm/charts/tree/master/stable/elastic-stack
+- 2019 年 5 月， 7.1 颁布发布时
+  - 同时发布 ECK，免费提供 Elastic Operator in Kubernetes
+
+## 二、Docker 环境中运行 ELK Stack
+
+- 下载安装Docker 与 Docker Compose
+  - www.docker.com
+  - https://docs.docker.com/compose
+  - https://docs.docker.com/machine/install-machine/
+- Docker-compose相关命令
+
+```bash
+# run docker-compose
+docker-compose up
+docker-compose down
+docker-compose down -v
+docker stop / rm containerID
+```
+
+
+
+## 三、课程Demo
 ### 在 docker 中运行 Elasticsearch
-进入 [7.x-docker-2-es-instance](7.x-docker-2-es-instance)目录
+进入 [7.x-docker-2-es-instance](./7.x-docker-2-es-instances)目录
 
 ```
 #启动
