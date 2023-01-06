@@ -1,7 +1,7 @@
 # 在Docker容器中运行Elasticsearch, Kibana和Cerebro
 ## 课程Demo
 ### 在 docker 中运行 Elasticsearch
-进入 7.x-docker-2-es-instance目录
+进入 [7.x-docker-2-es-instance](7.x-docker-2-es-instance)目录
 
 ```
 #启动
