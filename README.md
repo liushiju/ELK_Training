@@ -24,21 +24,24 @@
 - [4. Logstash 安装与导入数据](part-1/2.4-Logstash安装与导入数据/README.md)
 
 ### 第 3 章：Elasticsearch 入门
-1. 基本概念（1）：索引，文档和 REST API
-2. 基本概念（2）：节点，集群，分片及副本
-3. 文档的基本 CRUD 与批量操作
-4. 倒排索引入门
-5. 通过分析器进行分词
-6. Search API 概览
-7. URI Search 详解
-8. Request Body 与 Query DSL 简介
-9. Query String & Simple Query String 查询
-10. Dynamic Mapping 和常见字段类型
-11. 显式 Mapping 设置与常见参数介绍
-12. 多字段特性及 Mapping 中配置自定义 Analyzer
-13. Index Template 和 Dynamic Template
-14. Elasticsearch 聚合分析简介
-15. 第一部分总结
+
+- [1. 基本概念（1）：索引，文档和 REST API](part-1/3.1-基本概念1索引文档和RESTAPI/README.md)
+
+1. 基本概念（2）：节点，集群，分片及副本
+2. 文档的基本 CRUD 与批量操作
+3. 倒排索引入门
+4. 通过分析器进行分词
+5. Search API 概览
+6. URI Search 详解
+7. Request Body 与 Query DSL 简介
+8. Query String & Simple Query String 查询
+9. Dynamic Mapping 和常见字段类型
+10. 显式 Mapping 设置与常见参数介绍
+11. 多字段特性及 Mapping 中配置自定义 Analyzer
+12. Index Template 和 Dynamic Template
+13. Elasticsearch 聚合分析简介
+14. 第一部分总结
+
 ## 第二部分：深入了解 Elasticsearch
 ### 第 4 章：深入搜索
 1. 基于词项和基于全文的搜索
