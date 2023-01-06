@@ -1,4 +1,15 @@
 # Logstash 安装与测试数据导入
+
+## 一、获取 Logstash 安装包
+
+- 下载二进制文件
+  - https://www.elastic.co/cn/downloads/logstash
+- Docker 本地运行
+
+## 二、安装 Logstash
+
+![logstash安装](logstash安装.png)
+
 ## 课程Demo
 安装Logstash，并且导入Movielens的测试数据集
 - Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.
@@ -26,3 +37,4 @@ bin/logstash -f /YOUR_PATH_of_logstash.conf
 - 下载最MovieLens最小测试数据集：https://grouplens.org/datasets/movielens/
 - Logstash下载：https://www.elastic.co/cn/downloads/logstash
 - Logstash参考文档：https://www.elastic.co/guide/en/logstash/current/index.html
+
