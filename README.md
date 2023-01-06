@@ -17,9 +17,10 @@
 ### 第 2 章：安装上手
 - [1. Elasticsearch 的安装与简单配置](part-1/2.1-Elasticsearch的安装与简单配置/README.md)
 
-1. Kibana 的安装与界面快速浏览
-2. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro
-3. Logstash 安装与导入数据
+- [2. Kibana 的安装与界面快速浏览](part-1/2.2-Kibana的安装与界面快速浏览/README.md)
+
+1. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro
+2. Logstash 安装与导入数据
 
 ### 第 3 章：Elasticsearch 入门
 1. 基本概念（1）：索引，文档和 REST API
