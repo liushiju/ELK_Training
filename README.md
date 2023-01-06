@@ -19,8 +19,9 @@
 
 - [2. Kibana 的安装与界面快速浏览](part-1/2.2-Kibana的安装与界面快速浏览/README.md)
 
-1. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro
-2. Logstash 安装与导入数据
+- [3. 在 Docker 容器中运行 Elasticsearch，Kibana 和 Cerebro](part-1/2.3-在Docker容器中运行Elasticsearch,Kibana和Cerebro/README.md)
+
+1. Logstash 安装与导入数据
 
 ### 第 3 章：Elasticsearch 入门
 1. 基本概念（1）：索引，文档和 REST API
